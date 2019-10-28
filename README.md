@@ -5,13 +5,13 @@ Dr.Tape Head is based on a Raspberry Pi and retrieves text from a Google Sheets 
 
 The project is documented at:
 
-Instructables: 
+Instructables: https://www.instructables.com/id/Dr-Tape-Head-Undead-Media
 
 Hackstar: 
 
-Youtube:
+Youtube: https://youtu.be/mykrJEozIoM
 
-
+--------
 
 The code here may be useful but there are quite a few prerequisites before it will work, as it was designed for this specific use-case. 
 
