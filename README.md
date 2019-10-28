@@ -7,6 +7,8 @@ The project is documented at:
 
 Instructables: https://www.instructables.com/id/Dr-Tape-Head-Undead-Media
 
+Hackster: https://www.hackster.io/martin-mander/dr-tape-head-undead-media-c6f844
+
 Youtube: https://youtu.be/mykrJEozIoM
 
 --------
